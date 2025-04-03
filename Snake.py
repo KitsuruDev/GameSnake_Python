@@ -231,6 +231,3 @@ class TestSnakeGame(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-    # formMain = Tk()
-    # obj = SnakeGame(formMain)
-    # formMain.mainloop()
